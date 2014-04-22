@@ -1,0 +1,12 @@
+
+
+This project is a Selenium automation test suite.  
+
+It runs tests against http://the-internet.herokuapp.com , an example application that captures prominent and ugly functionality found on the web.  
+https://github.com/tourdedave/the-internet -Authored by Dave Haeffner
+
+Some examples of pages functionality tested are: Form Authentication, Frames, Geolocation, JQuery UI Menus, JavaScript Alerts
+
+The project framework is based on the page-objects framework for running automated tests using WebDriver with Java, TestNG & Gradle example.  Read his readme at the github link for instructions on how to set up the project for your IDE.
+https://github.com/iainrose/page-objects -Authored by Iain Rose.
+
